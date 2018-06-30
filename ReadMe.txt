@@ -1,26 +1,30 @@
-Efekt 5 dniowego tworzenia gry implementuj¹cej podstawowe mechaniki gry platformowej 3D.
+Efekt 5 dniowego tworzenia gry implementujÄ…cej podstawowe mechaniki gry platformowej 3D.
+
+Screeny z gry:
+https://cgcookie.com/u/jedrzejus12/projects/labyrinth-first-finished-unity-blender-project
 
 Opis gry:
 Gra stworzona w duchu klasycznych gier platformowych 3D. 
-G³ównym celem jest zebranie 10 kryszta³ków rozrzuconych po ca³ej mapie. 
-W miêdzyczasie co 10 sekund pojawia siê nowy duch, który atakuje gracza zadaj¹c mu 10 obra¿eñ (gracz posiada 100 punktów ¿ycia), a w momencie uderzenia gracza - duch znika.
+GÅ‚Ã³wnym celem jest zebranie 10 krysztaÅ‚kÃ³w rozrzuconych po caÅ‚ej mapie. 
+W miÄ™dzyczasie co 10 sekund pojawia siÄ™ nowy duch, ktÃ³ry atakuje gracza zadajÄ…c mu 10 obraÅ¼eÅ„ (gracz posiada 100 punktÃ³w Å¼ycia), a w momencie uderzenia gracza - duch znika.
 
-Gra koñczy siê jeœli gracz zbierze wszystkie 10 kryszta³ków lub zostanie 10 razy uderzony przez duchy.
+Gra koÅ„czy siÄ™ jeÅ›li gracz zbierze wszystkie 10 krysztaÅ‚kÃ³w lub zostanie 10 razy uderzony przez duchy.
 
 Sterowanie:
-Poruszanie siê: WSAD lub strza³ki
+Poruszanie siÄ™: WSAD lub strzaÅ‚ki
 Skok: Spacja
 Menu: ESC (przerwanie i reset gry po wybraniu New Game)
 
-Wszystkie modele 3D, tekstury, materia³y, animacje zosta³y przygotowane przeze mnie w programie Blender, a skrypty napisa³em korzystaj¹c z Microsoft Visual Studio.
+Wszystkie modele 3D, tekstury, materiaÅ‚y, animacje zostaÅ‚y przygotowane przeze mnie w programie Blender, a skrypty napisaÅ‚em korzystajÄ…c z Microsoft Visual Studio.
 
-Z Asset Store pobrane zosta³y:
-1. DŸwiêk monety: Coins SFX
-2. DŸwiêk krzyku ducha: Horror SFX
+Z Asset Store pobrane zostaÅ‚y:
+1. DÅºwiÄ™k monety: Coins SFX
+2. DÅºwiÄ™k krzyku ducha: Horror SFX
 3. Skybox: Farland Skies
 
-Paleta kolorów wybrana z wykorzystaniem aplikacji: https://coolors.co/
+Paleta kolorÃ³w wybrana z wykorzystaniem aplikacji: https://coolors.co/
 
-Muzyka na licencji Creative Commons (w menu g³ównym zaznaczony autor w ramach spe³nienia wymogu licencji).
+Muzyka na licencji Creative Commons (w menu gÅ‚Ã³wnym zaznaczony autor w ramach speÅ‚nienia wymogu licencji).
 
-Wszystkie obiekty poza dŸwiêkami i muzyk¹ (które s¹ dostêpne darmowo i nie wymagaj¹ zgody do wykorzystania) zosta³y wykonane przeze mnie oraz gra nie zawiera ¿adnych p³atnych dodatków. 
+Wszystkie obiekty poza dÅºwiÄ™kami i muzykÄ… (ktÃ³re sÄ… dostÄ™pne darmowo i nie wymagajÄ… zgody do wykorzystania) zostaÅ‚y wykonane przeze mnie oraz gra nie zawiera Å¼adnych pÅ‚atnych dodatkÃ³w. 
+
