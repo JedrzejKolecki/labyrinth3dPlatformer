@@ -1,0 +1,112 @@
+fileFormatVersion: 2
+guid: b44db89fa5d207448903aed97fbbd02e
+timeCreated: 1496486188
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Drzewo_bez_lisci
+    100002: Drzewo_bez_otworu
+    100004: Drzewo_Iglaste_1
+    100006: Drzewo_Iglaste_2
+    100008: Drzewo_Iglaste_3
+    100010: Drzewo_z_otworem
+    100012: Kloda
+    100014: //RootNode
+    400000: Drzewo_bez_lisci
+    400002: Drzewo_bez_otworu
+    400004: Drzewo_Iglaste_1
+    400006: Drzewo_Iglaste_2
+    400008: Drzewo_Iglaste_3
+    400010: Drzewo_z_otworem
+    400012: Kloda
+    400014: //RootNode
+    2300000: Drzewo_bez_lisci
+    2300002: Drzewo_bez_otworu
+    2300004: Drzewo_Iglaste_1
+    2300006: Drzewo_Iglaste_2
+    2300008: Drzewo_Iglaste_3
+    2300010: Drzewo_z_otworem
+    2300012: Kloda
+    3300000: Drzewo_bez_lisci
+    3300002: Drzewo_bez_otworu
+    3300004: Drzewo_Iglaste_1
+    3300006: Drzewo_Iglaste_2
+    3300008: Drzewo_Iglaste_3
+    3300010: Drzewo_z_otworem
+    3300012: Kloda
+    4300000: Drzewo_bez_lisci
+    4300002: Drzewo_bez_otworu
+    4300004: Drzewo_Iglaste_2
+    4300006: Drzewo_Iglaste_3
+    4300008: Drzewo_Iglaste_1
+    4300010: Kloda
+    4300012: Drzewo_z_otworem
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
