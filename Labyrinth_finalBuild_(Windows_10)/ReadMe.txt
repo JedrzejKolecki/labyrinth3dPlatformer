@@ -1,1 +1,1 @@
-Final Widows build for my Labyrinth project.
+Final Windows build for my Labyrinth project.
