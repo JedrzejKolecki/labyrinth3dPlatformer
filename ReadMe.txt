@@ -28,3 +28,5 @@ Muzyka na licencji Creative Commons (w menu głównym zaznaczony autor w ramach 
 
 Wszystkie obiekty poza dźwiękami i muzyką (które są dostępne darmowo i nie wymagają zgody do wykorzystania) zostały wykonane przeze mnie oraz gra nie zawiera żadnych płatnych dodatków. 
 
+Moje modele 3D można oglądać na stronie Sketchfab:
+https://sketchfab.com/jedrzejus12/models
